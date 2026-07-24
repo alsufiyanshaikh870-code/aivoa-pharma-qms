@@ -1,0 +1,22 @@
+# Secret & environment variables
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+venv/
+.venv/
+
+# Node / Frontend
+node_modules/
+.next/
+dist/
+build/
+
+# Operating System & Databases
+.DS_Store
+*.db
+*.sqlite3
